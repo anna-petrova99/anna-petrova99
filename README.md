@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, меня зовут Анна  👋
 
-<!--
-**anna-petrova99/anna-petrova99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Обо мне:
+- имею высшее образование (математическое образование);
+- начинающий Java-разработчик, начала изучать программирование год назад и уже имею практику работы с самыми востребованными инструментами;
+- умею работать в команде, готова к работе в офисе и удаленно;
+- ответственно подхожу к работе и к своим обязанностям;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+## Навыки:
+
