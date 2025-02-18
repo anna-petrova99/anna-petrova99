@@ -10,5 +10,13 @@
 
 --- 
 
-## Навыки:
+## Знания и навыки:
+![Java_Core](https://img.shields.io/badge/-Java_Core-090909?style=for-the-badge&logo=Java_Core)
+![IntellijIdea](https://img.shields.io/badge/-Intellij_Idea-090909?style=for-the-badge&logo=IntellijIdea)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql)
+![JUnit](https://img.shields.io/badge/-JUnit-090909?style=for-the-badge&logo=JUnit)
+
+---
 
