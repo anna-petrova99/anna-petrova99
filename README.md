@@ -21,6 +21,6 @@
 ---
 
 ## Курсы переподготовки:
-- [[Java с нуля до Junior](https://github.com/anna-petrova99/anna-petrova99/blob/main/img/stepik-certificate-118518-a2572c3.pdf)]
-- [[Основы языка Java](https://github.com/anna-petrova99/anna-petrova99/blob/main/img/stepik-certificate-124803-8369f6c.pdf)]
-- [[Интерактивный тренажер по SQL](https://github.com/anna-petrova99/anna-petrova99/blob/main/img/stepik-certificate-63054-3bb6e22.pdf)]
+- [Java с нуля до Junior](https://github.com/anna-petrova99/anna-petrova99/blob/main/img/stepik-certificate-118518-a2572c3.pdf)
+- [Основы языка Java](https://github.com/anna-petrova99/anna-petrova99/blob/main/img/stepik-certificate-124803-8369f6c.pdf)
+- [Интерактивный тренажер по SQL](https://github.com/anna-petrova99/anna-petrova99/blob/main/img/stepik-certificate-63054-3bb6e22.pdf)
